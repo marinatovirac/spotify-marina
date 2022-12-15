@@ -5,7 +5,7 @@
 /* eslint-disable consistent-return */
 
 const clientId = '61d043ec2e2442a4b14bf9ba37a26a5d';
-const redirectUri = 'http://localhost:3000';
+const redirectUri = 'https://spotify-playlist-marina.netlify.app/';
 
 let accessToken;
 
